@@ -1,0 +1,221 @@
+2025-10-29 00:31:47,381 - INFO - ==================================================
+2025-10-29 00:31:47,383 - INFO - PHARMACEUTICAL DATA COLLECTION PIPELINE
+2025-10-29 00:31:47,384 - INFO - ==================================================
+2025-10-29 00:31:47,416 - INFO - Database initialized at data/drugs.db
+2025-10-29 00:31:47,418 - INFO - Starting collection for 55 drugs...
+2025-10-29 00:31:47,420 - INFO - Starting collection for: Metformin
+2025-10-29 00:31:59,106 - INFO - Starting collection for: Aspirin
+2025-10-29 00:32:01,930 - INFO - Starting collection for: Ibuprofen
+2025-10-29 00:32:04,697 - INFO - Starting collection for: Amoxicillin
+2025-10-29 00:32:07,477 - INFO - Starting collection for: Lisinopril
+2025-10-29 00:32:10,261 - INFO - Starting collection for: Atorvastatin
+2025-10-29 00:32:13,055 - INFO - Starting collection for: Omeprazole
+2025-10-29 00:32:15,816 - INFO - Starting collection for: Amlodipine
+2025-10-29 00:32:18,574 - INFO - Starting collection for: Levothyroxine
+2025-10-29 00:32:21,336 - INFO - Starting collection for: Simvastatin
+2025-10-29 00:32:23,332 - INFO - Progress: 10/55 drugs processed
+2025-10-29 00:32:24,354 - INFO - Starting collection for: Losartan
+2025-10-29 00:32:27,134 - INFO - Starting collection for: Gabapentin
+2025-10-29 00:32:29,909 - INFO - Starting collection for: Hydrochlorothiazide
+2025-10-29 00:32:32,682 - INFO - Starting collection for: Metoprolol
+2025-10-29 00:32:35,461 - INFO - Starting collection for: Sertraline
+2025-10-29 00:32:38,271 - INFO - Starting collection for: Albuterol
+2025-10-29 00:32:41,074 - INFO - Starting collection for: Furosemide
+2025-10-29 00:32:43,837 - INFO - Starting collection for: Acetaminophen
+2025-10-29 00:32:46,672 - INFO - Starting collection for: Warfarin
+2025-10-29 00:32:49,488 - INFO - Starting collection for: Prednisone
+2025-10-29 00:32:51,248 - INFO - Progress: 20/55 drugs processed
+2025-10-29 00:32:52,269 - INFO - Starting collection for: Clopidogrel
+2025-10-29 00:32:55,089 - INFO - Starting collection for: Escitalopram
+2025-10-29 00:32:57,974 - INFO - Starting collection for: Montelukast
+2025-10-29 00:33:00,772 - INFO - Starting collection for: Rosuvastatin
+2025-10-29 00:33:03,618 - INFO - Starting collection for: Pantoprazole
+2025-10-29 00:33:06,413 - INFO - Starting collection for: Fluticasone
+2025-10-29 00:33:09,175 - INFO - Starting collection for: Tramadol
+2025-10-29 00:33:11,973 - INFO - Starting collection for: Citalopram
+2025-10-29 00:33:14,780 - INFO - Starting collection for: Carvedilol
+2025-10-29 00:33:17,578 - INFO - Starting collection for: Pravastatin
+2025-10-29 00:33:19,352 - INFO - Progress: 30/55 drugs processed
+2025-10-29 00:33:20,374 - INFO - Starting collection for: Tamsulosin
+2025-10-29 00:33:23,171 - INFO - Starting collection for: Loratadine
+2025-10-29 00:33:25,933 - INFO - Starting collection for: Bupropion
+2025-10-29 00:33:28,781 - INFO - Starting collection for: Venlafaxine
+2025-10-29 00:33:31,604 - INFO - Starting collection for: Meloxicam
+2025-10-29 00:33:34,475 - INFO - Starting collection for: Doxycycline
+2025-10-29 00:33:37,252 - INFO - Starting collection for: Ciprofloxacin
+2025-10-29 00:33:40,004 - INFO - Starting collection for: Azithromycin
+2025-10-29 00:33:42,780 - INFO - Starting collection for: Cephalexin
+2025-10-29 00:33:45,553 - INFO - Starting collection for: Clonazepam
+2025-10-29 00:33:47,375 - INFO - Progress: 40/55 drugs processed
+2025-10-29 00:33:48,398 - INFO - Starting collection for: Cyclobenzaprine
+2025-10-29 00:33:51,179 - INFO - Starting collection for: Ranitidine
+2025-10-29 00:33:53,933 - INFO - Starting collection for: Trazodone
+2025-10-29 00:33:56,708 - INFO - Starting collection for: Duloxetine
+2025-10-29 00:33:59,538 - INFO - Starting collection for: Insulin
+2025-10-29 00:34:02,308 - INFO - Starting collection for: Naproxen
+2025-10-29 00:34:05,091 - INFO - Starting collection for: Diazepam
+2025-10-29 00:34:07,911 - INFO - Starting collection for: Potassium
+2025-10-29 00:34:10,691 - INFO - Starting collection for: Famotidine
+2025-10-29 00:34:13,456 - INFO - Starting collection for: Sildenafil
+2025-10-29 00:34:15,246 - INFO - Progress: 50/55 drugs processed
+2025-10-29 00:34:16,268 - INFO - Starting collection for: Alprazolam
+2025-10-29 00:34:19,071 - INFO - Starting collection for: Cetirizine
+2025-10-29 00:34:21,835 - INFO - Starting collection for: Diphenhydramine
+2025-10-29 00:34:24,880 - INFO - Starting collection for: Morphine
+2025-10-29 00:34:27,668 - INFO - Starting collection for: Methylphenidate
+2025-10-29 00:34:30,573 - INFO - ==================================================
+2025-10-29 00:34:30,575 - INFO - COLLECTION COMPLETE
+2025-10-29 00:34:30,577 - INFO - Total drugs: 55
+2025-10-29 00:34:30,775 - INFO - Success rate: 100.0%
+2025-10-29 00:34:30,777 - INFO - ==================================================
+2025-10-29 00:34:30,778 - INFO - Pipeline execution completed!
+2025-10-29 00:41:01,797 - INFO - ==================================================
+2025-10-29 00:41:01,799 - INFO - PHARMACEUTICAL DATA COLLECTION PIPELINE
+2025-10-29 00:41:01,801 - INFO - ==================================================
+2025-10-29 00:41:01,813 - INFO - Database initialized at data/drugs.db
+2025-10-29 00:41:01,814 - INFO - Starting collection for 55 drugs...
+2025-10-29 00:41:01,816 - INFO - Starting collection for: Metformin
+2025-10-29 00:41:12,840 - INFO - Starting collection for: Aspirin
+2025-10-29 00:41:15,570 - INFO - Starting collection for: Ibuprofen
+2025-10-29 00:41:18,323 - INFO - Starting collection for: Amoxicillin
+2025-10-29 00:41:21,199 - INFO - Starting collection for: Lisinopril
+2025-10-29 00:41:24,122 - INFO - Starting collection for: Atorvastatin
+2025-10-29 00:41:26,989 - INFO - Starting collection for: Omeprazole
+2025-10-29 00:41:29,797 - INFO - Starting collection for: Amlodipine
+2025-10-29 00:41:32,618 - INFO - Starting collection for: Levothyroxine
+2025-10-29 00:41:35,357 - INFO - Starting collection for: Simvastatin
+2025-10-29 00:41:39,512 - INFO - Progress: 10/55 drugs processed
+2025-10-29 00:41:40,785 - INFO - Starting collection for: Losartan
+2025-10-29 00:41:43,672 - INFO - Starting collection for: Gabapentin
+2025-10-29 00:41:46,470 - INFO - Starting collection for: Hydrochlorothiazide
+2025-10-29 00:41:49,308 - INFO - Starting collection for: Metoprolol
+2025-10-29 00:41:52,110 - INFO - Starting collection for: Sertraline
+2025-10-29 00:41:54,943 - INFO - Starting collection for: Albuterol
+2025-10-29 00:41:57,906 - INFO - Starting collection for: Furosemide
+2025-10-29 00:42:00,664 - INFO - Starting collection for: Acetaminophen
+2025-10-29 00:42:03,401 - INFO - Starting collection for: Warfarin
+2025-10-29 00:42:06,166 - INFO - Starting collection for: Prednisone
+2025-10-29 00:42:07,909 - INFO - Progress: 20/55 drugs processed
+2025-10-29 00:42:08,932 - INFO - Starting collection for: Clopidogrel
+2025-10-29 00:42:11,698 - INFO - Starting collection for: Escitalopram
+2025-10-29 00:42:14,534 - INFO - Starting collection for: Montelukast
+2025-10-29 00:42:17,399 - INFO - Starting collection for: Rosuvastatin
+2025-10-29 00:42:20,196 - INFO - Starting collection for: Pantoprazole
+2025-10-29 00:42:22,962 - INFO - Starting collection for: Fluticasone
+2025-10-29 00:42:25,705 - INFO - Starting collection for: Tramadol
+2025-10-29 00:42:28,502 - INFO - Starting collection for: Citalopram
+2025-10-29 00:42:31,288 - INFO - Starting collection for: Carvedilol
+2025-10-29 00:42:34,067 - INFO - Starting collection for: Pravastatin
+2025-10-29 00:42:37,063 - INFO - Progress: 30/55 drugs processed
+2025-10-29 00:42:38,081 - INFO - Starting collection for: Tamsulosin
+2025-10-29 00:42:40,860 - INFO - Starting collection for: Loratadine
+2025-10-29 00:42:43,617 - INFO - Starting collection for: Bupropion
+2025-10-29 00:42:46,406 - INFO - Starting collection for: Venlafaxine
+2025-10-29 00:42:49,192 - INFO - Starting collection for: Meloxicam
+2025-10-29 00:42:52,020 - INFO - Starting collection for: Doxycycline
+2025-10-29 00:42:54,783 - INFO - Starting collection for: Ciprofloxacin
+2025-10-29 00:42:57,575 - INFO - Starting collection for: Azithromycin
+2025-10-29 00:43:00,351 - INFO - Starting collection for: Cephalexin
+2025-10-29 00:43:03,513 - INFO - Starting collection for: Clonazepam
+2025-10-29 00:43:05,333 - INFO - Progress: 40/55 drugs processed
+2025-10-29 00:43:06,352 - INFO - Starting collection for: Cyclobenzaprine
+2025-10-29 00:43:09,100 - INFO - Starting collection for: Ranitidine
+2025-10-29 00:43:11,841 - INFO - Starting collection for: Trazodone
+2025-10-29 00:43:14,592 - INFO - Starting collection for: Duloxetine
+2025-10-29 00:43:17,384 - INFO - Starting collection for: Insulin
+2025-10-29 00:43:19,550 - INFO - ==================================================
+2025-10-29 00:43:19,551 - INFO - PHARMACEUTICAL DATA COLLECTION PIPELINE
+2025-10-29 00:43:19,552 - INFO - ==================================================
+2025-10-29 00:43:19,553 - ERROR - ERROR: OpenFDA API Key not set. Please update OPENFDA_API_KEY in the script or set as an environment variable.
+2025-10-29 00:43:20,147 - INFO - Starting collection for: Naproxen
+2025-10-29 00:43:22,913 - INFO - Starting collection for: Diazepam
+2025-10-29 00:43:25,685 - INFO - Starting collection for: Potassium
+2025-10-29 00:43:28,482 - INFO - Starting collection for: Famotidine
+2025-10-29 00:43:31,356 - INFO - Starting collection for: Sildenafil
+2025-10-29 00:43:33,144 - INFO - Progress: 50/55 drugs processed
+2025-10-29 00:43:34,164 - INFO - Starting collection for: Alprazolam
+2025-10-29 00:43:36,923 - INFO - Starting collection for: Cetirizine
+2025-10-29 00:43:39,653 - INFO - Starting collection for: Diphenhydramine
+2025-10-29 00:43:42,468 - INFO - Starting collection for: Morphine
+2025-10-29 00:43:45,276 - INFO - Starting collection for: Methylphenidate
+2025-10-29 00:43:45,886 - INFO - ==================================================
+2025-10-29 00:43:45,888 - INFO - PHARMACEUTICAL DATA COLLECTION PIPELINE
+2025-10-29 00:43:45,889 - INFO - ==================================================
+2025-10-29 00:43:45,890 - ERROR - ERROR: OpenFDA API Key not set. Please update OPENFDA_API_KEY in the script or set as an environment variable.
+2025-10-29 00:43:48,065 - INFO - ==================================================
+2025-10-29 00:43:48,066 - INFO - COLLECTION COMPLETE
+2025-10-29 00:43:48,067 - INFO - Total drugs: 55
+2025-10-29 00:43:48,099 - INFO - Success rate: 100.0%
+2025-10-29 00:43:48,100 - INFO - ==================================================
+2025-10-29 00:43:48,102 - INFO - Pipeline execution completed!
+2025-10-29 00:52:50,233 - INFO - ==================================================
+2025-10-29 00:52:50,235 - INFO - PHARMACEUTICAL DATA COLLECTION PIPELINE
+2025-10-29 00:52:50,236 - INFO - ==================================================
+2025-10-29 00:52:50,248 - INFO - Database initialized at data/drugs.db
+2025-10-29 00:52:50,249 - INFO - Starting collection for 55 drugs...
+2025-10-29 00:52:50,250 - INFO - Starting collection for: Metformin
+2025-10-29 00:53:01,922 - INFO - Starting collection for: Aspirin
+2025-10-29 00:53:04,714 - INFO - Starting collection for: Ibuprofen
+2025-10-29 00:53:07,485 - INFO - Starting collection for: Amoxicillin
+2025-10-29 00:53:10,246 - INFO - Starting collection for: Lisinopril
+2025-10-29 00:53:13,027 - INFO - Starting collection for: Atorvastatin
+2025-10-29 00:53:15,832 - INFO - Starting collection for: Omeprazole
+2025-10-29 00:53:18,613 - INFO - Starting collection for: Amlodipine
+2025-10-29 00:53:21,389 - INFO - Starting collection for: Levothyroxine
+2025-10-29 00:53:24,211 - INFO - Starting collection for: Simvastatin
+2025-10-29 00:53:26,205 - INFO - Progress: 10/55 drugs processed
+2025-10-29 00:53:27,226 - INFO - Starting collection for: Losartan
+2025-10-29 00:53:30,032 - INFO - Starting collection for: Gabapentin
+2025-10-29 00:53:32,794 - INFO - Starting collection for: Hydrochlorothiazide
+2025-10-29 00:53:35,557 - INFO - Starting collection for: Metoprolol
+2025-10-29 00:53:38,309 - INFO - Starting collection for: Sertraline
+2025-10-29 00:53:41,188 - INFO - Starting collection for: Albuterol
+2025-10-29 00:53:43,949 - INFO - Starting collection for: Furosemide
+2025-10-29 00:53:46,722 - INFO - Starting collection for: Acetaminophen
+2025-10-29 00:53:49,487 - INFO - Starting collection for: Warfarin
+2025-10-29 00:53:52,310 - INFO - Starting collection for: Prednisone
+2025-10-29 00:53:54,248 - INFO - Progress: 20/55 drugs processed
+2025-10-29 00:53:55,280 - INFO - Starting collection for: Clopidogrel
+2025-10-29 00:53:58,136 - INFO - Starting collection for: Escitalopram
+2025-10-29 00:54:00,930 - INFO - Starting collection for: Montelukast
+2025-10-29 00:54:03,700 - INFO - Starting collection for: Rosuvastatin
+2025-10-29 00:54:06,531 - INFO - Starting collection for: Pantoprazole
+2025-10-29 00:54:09,491 - INFO - Starting collection for: Fluticasone
+2025-10-29 00:54:12,344 - INFO - Starting collection for: Tramadol
+2025-10-29 00:54:15,427 - INFO - Starting collection for: Citalopram
+2025-10-29 00:54:18,237 - INFO - Starting collection for: Carvedilol
+2025-10-29 00:54:21,041 - INFO - Starting collection for: Pravastatin
+2025-10-29 00:54:22,871 - INFO - Progress: 30/55 drugs processed
+2025-10-29 00:54:23,888 - INFO - Starting collection for: Tamsulosin
+2025-10-29 00:54:26,712 - INFO - Starting collection for: Loratadine
+2025-10-29 00:54:29,488 - INFO - Starting collection for: Bupropion
+2025-10-29 00:54:32,283 - INFO - Starting collection for: Venlafaxine
+2025-10-29 00:54:35,092 - INFO - Starting collection for: Meloxicam
+2025-10-29 00:54:37,927 - INFO - Starting collection for: Doxycycline
+2025-10-29 00:54:40,689 - INFO - Starting collection for: Ciprofloxacin
+2025-10-29 00:54:43,434 - INFO - Starting collection for: Azithromycin
+2025-10-29 00:54:46,213 - INFO - Starting collection for: Cephalexin
+2025-10-29 00:54:48,966 - INFO - Starting collection for: Clonazepam
+2025-10-29 00:54:50,761 - INFO - Progress: 40/55 drugs processed
+2025-10-29 00:54:51,788 - INFO - Starting collection for: Cyclobenzaprine
+2025-10-29 00:54:54,549 - INFO - Starting collection for: Ranitidine
+2025-10-29 00:54:57,298 - INFO - Starting collection for: Trazodone
+2025-10-29 00:55:00,192 - INFO - Starting collection for: Duloxetine
+2025-10-29 00:55:03,144 - INFO - Starting collection for: Insulin
+2025-10-29 00:55:05,968 - INFO - Starting collection for: Naproxen
+2025-10-29 00:55:08,778 - INFO - Starting collection for: Diazepam
+2025-10-29 00:55:11,955 - INFO - Starting collection for: Potassium
+2025-10-29 00:55:14,698 - INFO - Starting collection for: Famotidine
+2025-10-29 00:55:17,458 - INFO - Starting collection for: Sildenafil
+2025-10-29 00:55:19,224 - INFO - Progress: 50/55 drugs processed
+2025-10-29 00:55:20,244 - INFO - Starting collection for: Alprazolam
+2025-10-29 00:55:23,021 - INFO - Starting collection for: Cetirizine
+2025-10-29 00:55:25,798 - INFO - Starting collection for: Diphenhydramine
+2025-10-29 00:55:28,585 - INFO - Starting collection for: Morphine
+2025-10-29 00:55:31,382 - INFO - Starting collection for: Methylphenidate
+2025-10-29 00:55:34,146 - INFO - ==================================================
+2025-10-29 00:55:34,148 - INFO - COLLECTION COMPLETE
+2025-10-29 00:55:34,149 - INFO - Total drugs: 55
+2025-10-29 00:55:34,187 - INFO - Success rate: 100.0%
+2025-10-29 00:55:34,188 - INFO - ==================================================
+2025-10-29 00:55:34,190 - INFO - Pipeline execution completed!
