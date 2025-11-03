@@ -11,4 +11,5 @@ COPY . .
 RUN pip install -r requirements.txt
 
 
-CMD ["python", "generate_report.py"]
+CMD ["bash", "-c", "python collect_drug_data.py && python validate_data.py && python generate_report.py"]
+
