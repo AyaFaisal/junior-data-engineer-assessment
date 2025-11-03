@@ -29,11 +29,11 @@ This project implements a complete pharmaceutical data collection pipeline that:
 
 ---
 
-## 🚀 Quick Start & How to Run
+##  Quick Start & How to Run
 
 This project is fully containerized with **Docker**, making setup and execution simple and reproducible. This is the recommended way to run the pipeline.
 
-### 🐳 Running with Docker (Recommended)
+###  Running with Docker (Recommended)
 
 **Prerequisites:**
 *   Docker Desktop installed and running.
