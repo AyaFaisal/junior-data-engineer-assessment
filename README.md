@@ -1,6 +1,5 @@
 # Task 2: Pharmaceutical Data Collection
 
-**Junior Data Engineer Assessment - 40 Points**
 
 Automated pharmaceutical data collection and validation pipeline for medical applications.
 
