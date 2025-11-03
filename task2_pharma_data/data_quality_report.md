@@ -1,12 +1,5 @@
 # Data Quality Report - Pharmaceutical Data Collection
 
-**Generated:** October 29, 2025 at 15:57:18  
-**Database:** `data/drugs.db`  
-**Validator Version:** 1.0  
-**Total Records Validated:** 55 drugs
-
----
-
 ## Executive Summary
 
 This report provides a comprehensive analysis of the pharmaceutical data quality collected from OpenFDA and RxNorm APIs for 55 common medications.
